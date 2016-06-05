@@ -1,0 +1,10 @@
+/PharmacyApp.Server/_ReSharper.PharmacyApp.Server
+/PharmacyApp.Server/bin
+/PharmacyApp.Server/obj
+/PharmacyApp.Server/packages
+/PharmacyApp.Server/PharmacyApp.Server.App.csproj.user
+/PharmacyApp.Server/PharmacyApp.Server.v11.suo
+/PharmacyApp.Server.DataContext/obj
+/PharmacyApp.Server.DataContext/bin
+/PharmacyApp.Server.Models/obj
+/PharmacyApp.Server.Models/bin
