@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace PharmacyApp.Server.Models
 {
-    [DataContract]
     public enum NomenclatureInputType
     {
         Text,

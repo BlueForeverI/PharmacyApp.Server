@@ -8,3 +8,7 @@
 /PharmacyApp.Server.DataContext/bin
 /PharmacyApp.Server.Models/obj
 /PharmacyApp.Server.Models/bin
+/PharmacyApp.Server/PharmacyApp.Server.DataContext/obj
+/PharmacyApp.Server/PharmacyApp.Server.DataContext/bin
+/PharmacyApp.Server/PharmacyApp.Server.Repositories/obj
+/PharmacyApp.Server/PharmacyApp.Server.Repositories/bin
